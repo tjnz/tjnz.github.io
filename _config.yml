@@ -3,14 +3,15 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
+name:               "Don't Read This"
 description:        "a clean, lightweight and minimalistic blog theme for jekyll"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//kiko.gfjaru.com"
-author:             "gfjaru"
-twitter:
-  username:         "gfjaru"
+url:                "//tjnz.github.io"
+author:             "tjnz"
+github_username:    "tjnz"
+#twitter:
+# username:         "gfjaru"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
@@ -26,9 +27,9 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           "/about"
+  - name:           "Projects"
+    href:           "/projects"
 
 # Sass
 sass:

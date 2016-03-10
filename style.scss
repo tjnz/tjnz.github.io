@@ -96,6 +96,15 @@ ul {
     margin-top: .25rem;
     margin-bottom: .5rem;
   }
+  
+  .clean {
+    list-style-type: none;
+  }
+}
+
+.clean-ul {
+  list-style-type: none;
+  padding-left: .5em;
 }
 
 ol {
