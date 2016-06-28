@@ -20,8 +20,13 @@ html {
   line-height: 1.6;
 
   @media (min-width: 38em) {
-    font-size: 20px;
+    font-size: 19px;
   }
+}
+
+.copyright {
+  margin-top: 5em;
+  font-size: .75em;
 }
 
 body {
@@ -137,7 +142,7 @@ ol + h3 {
 hr {
   border: 0;
   border-top: .5px solid #eee;
-  border-bottom: .5px solid #eee;
+  /*border-bottom: .5px solid #eee;*/
   margin: 1.5rem auto;
 }
 
